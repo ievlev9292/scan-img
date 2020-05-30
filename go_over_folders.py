@@ -3,8 +3,9 @@ This module puts all parts together into one assemply line:
 import, process and save images --> compile and save .pdf --> report back
 
 History:
-2020...... started development as a part of the scan_img project
-2020.05.26 added comments
+2020...... Started development as a part of the scan_img project
+2020.05.26 Added comments
+2020.05.29 Extensively tested
 """
 
 import os
